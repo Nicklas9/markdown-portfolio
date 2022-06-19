@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+[Illustration of a programmer](https://github.com/Nicklas9/markdown-portfolio/assets/img/undraw_feeling_proud_qne1.png)
