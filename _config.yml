@@ -1,2 +1,4 @@
+url: 'https://nicklas9.github.io/'
+baseurl: 'markdown-portfolio'
 title: Welcome to my portfolio!
 theme: jekyll-theme-primer
